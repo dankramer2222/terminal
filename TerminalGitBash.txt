@@ -1,0 +1,28 @@
+Linux terminal (GitBash) commands
+
+1) check where I am lokated?what repository? -> command pwd
+2) create a folder ? -> mkdir FolderName
+3) go to folder? -> cd FolderName
+4) create 3 Folders? -> mkdir FolderName1 FolderName2 FolderName3
+5) go to any folder? -> cd Foldername1
+6) create 5 files (3 txt, 2 json)? -> touch file1.txt file2.txt file3.txt file4.json file5.json 
+7) create 3 new Folders? ->  mkdir Newfolder1 Newfolder2 Newfolder3
+8. list folder contents ->ls -la
+9) + open any .txt file? ->cat file1.txt
+10) + write smth there ,any txt? -> cat >> file1.txt
+11) + save and exit. -> ctrcl +c
+12) exit the folder one level up? -> cd ..
+—
+13) move any 2 files you created to any other folder ? -> mv file1.txt Newfolder1/file1.txt  mv file2.txt Newfolder2/file2.txt
+14) copy any 2 files to any other folder -> cd file3.txt Newfolder2 cd file4json Newfolder2
+15) find file by name ? ->
+16) view contetn in real time(grep command) ->find . -name file1.txt
+17) output the first few lines from a text file ? ->
+18) output the last few lines from a text file ? ->
+19) view the contents of  a long file (less command ) ? ->
+20) display date and time? -> date --
+=========
+Exercise *
+1) Send an http request to the server.
+http://162.55.220.72:5005/terminal-hw-request
+2) Write a script that will automatically execute steps 3, 4, 5, 6, 7, 8, 13==========
