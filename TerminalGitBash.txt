@@ -14,7 +14,7 @@ Linux terminal (GitBash) commands
 12) exit the folder one level up? -> cd ..
 —
 13) move any 2 files you created to any other folder ? -> mv file1.txt Newfolder1/file1.txt  mv file2.txt Newfolder2/file2.txt
-14) copy any 2 files to any other folder -> cd file3.txt Newfolder2 cd file4json Newfolder2
+14) copy any 2 files to any other folder -> cp file3.txt Newfolder2 cp file4json Newfolder2
 15) find file by name ? ->
 16) view contetn in real time(grep command) ->find . -name file1.txt
 17) output the first few lines from a text file ? ->
