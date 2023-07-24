@@ -1,1 +1,1 @@
-# terminal
+Bash - homework 1
